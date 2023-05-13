@@ -1,0 +1,16 @@
+#form{
+	margin-top:35px;
+	width: 285px;
+	height: 285px;
+	border: 2px solid black;
+	margin-left: 555px;
+	margin-top: 200px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: absolute;	
+}
+#login{
+	 margin: 30px;
+	 margin-top: 43px;
+}
